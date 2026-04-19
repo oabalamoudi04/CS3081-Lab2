@@ -31,25 +31,40 @@ solution: I added the final clue that removes wrong positions which helped reach
 # Execrcises 
 
 ## Exercise 1 :
+
 All values returned True
 
+....................
+
 ## Exercise 2 :
+
 MsScarlet > YES
+
 library > YES
+
 knife > YES
 
+....................
+
 ## Exercise 3 :
+
 All characters were assigned correctly
 
+....................
+
 ## Exercise 4 :
+
 red > position 0
+
 blue > position 1
+
 yellow > position 2
+
 green > position 3
 
 -----------------------------
 
-# Screenshots 
+# Screenshots: 
 
 
 
