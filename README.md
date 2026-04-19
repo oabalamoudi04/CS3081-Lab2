@@ -64,7 +64,7 @@ green > position 3
 # Screenshots: 
 
 ### Screenshot 1:
-![ex1](screenshots/1.png)
+![ex1](1.png)
 
 
 
