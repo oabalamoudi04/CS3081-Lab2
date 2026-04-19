@@ -34,7 +34,6 @@ solution: I added the final clue that removes wrong positions which helped reach
 
 All values returned True
 
-....................
 
 ## Exercise 2 :
 
@@ -44,13 +43,11 @@ library > YES
 
 knife > YES
 
-....................
 
 ## Exercise 3 :
 
 All characters were assigned correctly
 
-....................
 
 ## Exercise 4 :
 
